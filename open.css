@@ -148,7 +148,8 @@ background-color:#ffffff;
 .contact-submit {
   background-color: #dee7ec;
   color: #889eab;
-size=7;
+  width: 150px;
+    height: 50px
     }
 
 
