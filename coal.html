@@ -3,26 +3,26 @@
     <link rel="stylesheet" href="open.css">
     </head>
   <body>
-  <br><br>
+  <br><br><br>
 <form class="formrun" action="yuikun-yeah-github-pages" method="post">
   <!-- ↓自由に要素を追加・編集することができます -->
   <div>
     <label>お名前</label>
     <input name="お名前" type="text">
   </div>
-
+<br>
   <div>
     <label>メールアドレス [必須]</label>
     <input name="メールアドレス" type="text" data-formrun-type="email" data-formrun-required>
     <div data-formrun-show-if-error="メールアドレス">メールアドレスを正しく入力してください</div>
   </div>
-
+<br>
   <div>
     <label>お問い合わせ [必須]</label>
     <textarea name="お問い合わせ" data-formrun-required></textarea>
     <div data-formrun-show-if-error="お問い合わせ">お問い合わせ入力してください</div>
   </div>
-
+<br>
   <div>
     <label>個人情報利用同意 [必須]</label>
     <input type="checkbox" name="個人情報利用同意" data-formrun-required>
@@ -35,8 +35,8 @@
     <label for="_formrun_gotcha">If you are a human, ignore this field</label>
     <input type="text" name="_formrun_gotcha" id="_formrun_gotcha" tabindex="-1">
   </div>
-
-  <button type="submit" data-formrun-error-text="未入力の項目があります" data-formrun-submitting-text="送信中...">送信</button>
+<br>
+  <button class="contact-submit" type="submit" data-formrun-error-text="未入力の項目があります" data-formrun-submitting-text="送信中...">送信</button>
 </form>
 
 
