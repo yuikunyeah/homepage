@@ -33,9 +33,7 @@
   #navigation .inner > ul {
 
     display: -webkit-flex;
-.contact-submit {
-  background-color: #dee7ec;
-  color: #889eab;
+
     display: -ms-flexbox;
 
     display: flex;
