@@ -1,8 +1,8 @@
 public class Wils {
-    public void backGrounds(){
-        background( ff0000 );
+    public static void backGrounds(){
+        background(255,0,0);
     }
     public static void main(String[] args){
-        backGrounds();
+        backgrounds();
     }
 }
