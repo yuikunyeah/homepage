@@ -153,8 +153,8 @@ margin-bottom: 2em;
 border-bottom: solid 3px #4169e1;/* 線 */
 }
 body{
-  background: linear-gradient(#ffffff,#f0f8ff) fixed;
   align: center;
+  color: #a9a9a9;
 }
 
 .contact-submit {
