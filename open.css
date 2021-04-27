@@ -153,8 +153,7 @@ margin-bottom: 2em;
 border-bottom: solid 3px #4169e1;/* 線 */
 }
 body{
-  background-color: #ffffff;
-  background: linear-gradient(#f0f8ff);
+  background: linear-gradient(#ffffff,#f0f8ff) fixed;
   align: center;
 }
 
