@@ -138,7 +138,13 @@
 
       background-color: rgba(0, 0, 0, 0.1); }
 h2{
-   border-bottom:1px solid #333;
+padding-top: .5em;
+padding-bottom: .5em;
+padding-left: .5em;
+margin-bottom: 2em;
+border-left: 20px solid #a83f9c;/* 線 */
+background-color: #f3e4f1;/* 背景色 */
+color: #772d6f;/* フォント色 */
 }
 body{
 background-color:#ffffff;
