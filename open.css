@@ -168,7 +168,7 @@ li{
 .main{
   width: 1000px;
   margin: 5px;
-  background-color: #ffffff;
+  background: #ffffff;
 }
 .Senden{
 
@@ -176,7 +176,7 @@ li{
 
   margin: 5px;
 
-  background-color: #ffffff;
+  background: #ffffff;
 
 
 }
