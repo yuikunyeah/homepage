@@ -153,7 +153,7 @@ margin-bottom: 2em;
 border-bottom: solid 3px #4169e1;/* 線 */
 }
 body{
-  /*なにか*/
+  background-color: #a9a9a9; /*なにか*/
 }
 
 .contact-submit {
@@ -168,5 +168,5 @@ li{
 .main{
    padding-right: 100px;
    padding-left: 100px;
-  background-color: #a9a9a9;
+  background-color: #ffffff;
 }
