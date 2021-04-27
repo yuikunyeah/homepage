@@ -166,6 +166,7 @@ li{
   list-style: none;
 }
 .main{
+  width: 1000px;
   margin: 0px;
   background-color: #ffffff;
 }
