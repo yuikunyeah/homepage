@@ -166,6 +166,6 @@ li{
   list-style: none;
 }
 .main{
-   wdith: 60%;
+  padding: 0px 150px 0px 150px;
   background: #ffffff;
 }
