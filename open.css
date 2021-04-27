@@ -154,9 +154,6 @@ border-bottom: solid 3px #4169e1;/* 線 */
 }
 body{
   background-color: #ffffff;
-   margin: auto;
-  width: 500px;
-  height: 10000px;
   background: linear-gradient(#f0f8ff);
   align: center;
 }
