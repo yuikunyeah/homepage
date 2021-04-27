@@ -166,6 +166,9 @@ li{
   list-style: none;
 }
 .main{
-  width: 10000px;
+  width: 250px;
   background: #ffffff;
+  align: center;
+  height: +50px;
+  
 }
