@@ -145,6 +145,12 @@ margin-bottom: 2em;
 border-left: 20px solid #4169e1;/* 線 */
 background-color: #f0f8ff;/* 背景色 */
 color: #772d6f;/* フォント色 */
+  font-size: 1.5em;/* フォントサイズ */
+font-weight: bold;/* フォント太さ */   
+padding-top: .5em;
+padding-bottom: .5em;
+margin-bottom: 2em;
+border-bottom: solid 3px #4169e1;/* 線 */
 }
 body{
 background-color:#ffffff;
