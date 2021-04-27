@@ -168,5 +168,7 @@ li{
 .main{
   background: #ffffff;
 padding: 0px 50px;
+  hidth: 800px;
+  align: center;
 
 }
