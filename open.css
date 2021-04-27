@@ -166,5 +166,6 @@ li{
   list-style: none;
 }
 .main{
-align: center;
+   margin:100px;
+   padding:100px;
 }
