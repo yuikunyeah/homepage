@@ -155,9 +155,11 @@ border-bottom: solid 3px #4169e1;/* 線 */
 body{
   background-color: #ffffff;
 }
+.newpagestyle{
+  background-color: #ffffff;
   padding-left: 10px;
   padding-right: 10px;
-
+}
 .contact-submit {
   background-color: #7fffd4;
   color: #008b8b;
