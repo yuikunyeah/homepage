@@ -231,4 +231,11 @@ body ul li a:hover{
 body a{
 color: #008080;
 }
-
+.dlb{/*ボタン*/
+color:#285EA0;
+text-align:center;
+padding:5px;
+margin-top:15px;
+border-radius: 50px;
+box-shadow:3px 3px 6px #b8b9be,-3px -3px 6px #fff;
+}
