@@ -227,4 +227,8 @@ color: #62a061;/* フォント色 */
   border-left: solid 10px #40803b;
   background-color: #ffffff;
 }
+.body a{
+color: #ffffff;
+  background-color: #008080;
+}
 
