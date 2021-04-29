@@ -201,5 +201,7 @@ color: #62a061;/* フォント色 */
 margin-left: 1010px;
 padding: 5px;
   margin: 50px 0px;
-  packground: #ffffff;
+  background: #ffffff;
+  border-radius: 20px;
+
 }
