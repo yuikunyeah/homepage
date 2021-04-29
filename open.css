@@ -166,8 +166,8 @@ li{
   list-style: none;
 }
 .main{
-  width: 1000px;
-  margin: 5px;
+  width: 66%;
+  margin: 2%%;
   background: #ffffff;
 
 border-radius: 20px;
@@ -176,18 +176,19 @@ border-radius: 20px;
 
 }
 .side{
-width: 400px;
+width: 22%;
 height:auto ;
 background:#ffffff;
-float:right;
+float:left;
 border-radius: 20px;
   margin-top: 0px;
+  margin: 2%;
 }
 .Senden{
 
-  width: 1000px;
+  width: 66%;
 
-  margin: 5px;
+  margin: 2%;
   Padding: 50px 0px;
 
   background: #ffffff;
