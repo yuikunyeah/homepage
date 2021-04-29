@@ -168,7 +168,7 @@ li{
 .main{
   float: left;
   width: 70%;
-  margin: 5%;
+  margin: 1%;
   background: #ffffff;
 
 border-radius: 20px;
@@ -177,19 +177,19 @@ border-radius: 20px;
 
 }
 .side{
-width: 30%;
+width: 27%;
 height:auto ;
 background:#ffffff;
 float:left;
 border-radius: 20px;
   margin-top: 0px;
-  margin: 5%;
+  margin: 1%;
 }
 .Senden{
 float: left;
   width: 70%;
 
-  margin: 5%;
+  margin: 1%;
   Padding: 50px 0px;
 
   background: #ffffff;
