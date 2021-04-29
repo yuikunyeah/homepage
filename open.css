@@ -166,6 +166,7 @@ li{
   list-style: none;
 }
 .main{
+  float: left;
   width: 66%;
   margin: 2%%;
   background: #ffffff;
@@ -185,7 +186,7 @@ border-radius: 20px;
   margin: 2%;
 }
 .Senden{
-
+float: left;
   width: 66%;
 
   margin: 2%;
