@@ -226,6 +226,7 @@ color: #62a061;/* フォント色 */
 .main ul li a:hover{
   border-left: solid 10px #40803b;
   background-color: #ffffff;
+  display: inline;
 }
 .body a{
 color: #ffffff;
