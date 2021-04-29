@@ -198,8 +198,9 @@ text-align: center;/* テキストの位置 */
 color: #62a061;/* フォント色 */
 }
 .side{
-width:450px;
+width:400px;
 height:auto ;
 background:#ffffff;
 float:right;
+border-radius: 20px;
 }
