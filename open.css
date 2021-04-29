@@ -208,14 +208,14 @@ border-radius: 15px;/* 角丸 */
 text-align: center;/* テキストの位置 */
 color: #62a061;/* フォント色 */
 }
-.main ul{
+body ul{
   list-style: none;
 }
-.main ul li{
+body ul li{
   border-bottom: solid 1px #aaaaaa;
   display: block;
 }
-.main ul li a{
+body ul li a{
   transition-property: border,background-color;
   transition-duration: 0.3s;
   text-decoration: none;
@@ -223,12 +223,12 @@ color: #62a061;/* フォント色 */
   color: #202020;
   display: block;
 }
-.main ul li a:hover{
+body ul li a:hover{
   border-left: solid 10px #40803b;
   background-color: #ffffff;
  display: block;
 }
-.body a{
+body a{
 color: #008080;
 }
 
