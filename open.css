@@ -174,7 +174,7 @@ li{
 border-radius: 20px;
 
   Padding: 15px 0px;
-
+ box-shadow: 2px 2px 4px;
 }
 .side{
 width: 29%;
@@ -185,6 +185,7 @@ border-radius: 20px;
   margin-top: 30px;
   margin: 0%;
     Padding: 15px 0px;
+  box-shadow: 2px 2px 4px;
 }
 .Senden{
 float: left;
@@ -196,7 +197,7 @@ float: left;
   background: #ffffff;
 
 border-radius: 20px;
-
+ box-shadow: 2px 2px 4px;
 }
 h1{
 font-size: 1.5em;/* フォントサイズ */
